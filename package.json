@@ -1,0 +1,17 @@
+{
+  "name": "nav1",
+  "version": "1.0.0",
+  "description": "theme plate one ",
+  "main": "index.js",
+  "repository": "https://github.com/CyberAli1989/nav1.git",
+  "author": "CyberAli1989 <naserianali@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "boxicons": "^2.1.2",
+    "jquery": "^3.6.0"
+  },
+  "scripts": {
+    "dev": "sass --watch assets/scss/index.scss assets/css/index.css",
+    "live": "live-server"
+  }
+}
